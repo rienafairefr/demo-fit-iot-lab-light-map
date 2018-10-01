@@ -8,7 +8,7 @@
 [submodule "demo-fit-light-map"]
 	path = demo-fit-light-map
 	url = git@gitlab.irisa.fr:fun/demo-fit-light-map.git
-	branch = ewsn-demo
+	branch = matthieu-light-map
 [submodule "light-automation"]
 	path = light-automation
 	url = https://github.com/vandaele/light-automation.git
