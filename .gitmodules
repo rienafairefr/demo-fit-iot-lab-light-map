@@ -1,0 +1,11 @@
+[submodule "contiki"]
+	path = contiki
+	url = https://github.com/vandaele/contiki.git
+	branch = ewsn-tsch
+[submodule "openlab"]
+	path = openlab
+	url = git@github.com:iot-lab/openlab.git
+[submodule "demo-fit-light-map"]
+	path = demo-fit-light-map
+	url = git@gitlab.irisa.fr:fun/demo-fit-light-map.git
+	branch = ewsn-demo

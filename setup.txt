@@ -1,0 +1,11 @@
+https://github.com/vandaele/contiki   branche ewsn-demo
+with git@github.com:iot-lab/openlab.git next to it
+
+
+examples/iotlab/er-rest-example for nodes
+examples/iotlab/03-rpl-tsch-border-router for border router
+
+
+Then use
+https://gitlab.irisa.fr/fun/demo-fit-light-map
+  branche ewsn-demo
